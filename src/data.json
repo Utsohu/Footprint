@@ -1,0 +1,526 @@
+{
+  "grade": [
+    {
+      "id": 0,
+      "term": 0,
+      "name": "MATH 137",
+      "description": "Calculus 1 for Honours Mathematics",
+      "grade": "100",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 1,
+      "term": 0,
+      "name": "MATH 135",
+      "description": "Algebra for Honours Mathematics",
+      "grade": "94",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 2,
+      "term": 0,
+      "name": "CS 145",
+      "description": "Designing Functional Programs (Advanced Level)",
+      "grade": "92",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 3,
+      "term": 0,
+      "name": "ECON 101",
+      "description": "Introduction to Microeconomics",
+      "grade": "90",
+      "status": 0,
+      "isMajor": 1
+    },
+    {
+      "id": 4,
+      "term": 0,
+      "name": "ENGL 109",
+      "description": "Introduction to Academic Writing",
+      "grade": "88",
+      "status": 0,
+      "isMajor": 1
+    },
+    {
+      "id": 5,
+      "term": 1,
+      "name": "CS 136L",
+      "description": "Tools and Techniques for Software Development",
+      "grade": "CR",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 6,
+      "term": 1,
+      "name": "CS 146",
+      "description": "Elementary Algorithm Design and Data Abstraction (Advanced Level)",
+      "grade": "98",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 7,
+      "term": 1,
+      "name": "ECON 102 ",
+      "description": "Introduction to Macroeconomics",
+      "grade": "95",
+      "status": 0,
+      "isMajor": 1
+    },
+    {
+      "id": 8,
+      "term": 1,
+      "name": "MATH 136",
+      "description": "Linear Algebra 1 for Honours Mathematics",
+      "grade": "97",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 9,
+      "term": 1,
+      "name": "MATH 138",
+      "description": "Calculus 2 for Honours Mathematics",
+      "grade": "95",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 10,
+      "term": 1,
+      "name": "PHYS 112",
+      "description": "Physics 2",
+      "grade": "100",
+      "status": 0,
+      "isMajor": 1
+    },
+    {
+      "id": 11,
+      "term": 2,
+      "name": "CS 245",
+      "description": "Logic and Computation",
+      "grade": "87",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 12,
+      "term": 2,
+      "name": "CS 246",
+      "description": "Objected-Oriented Software Development",
+      "grade": "82",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 13,
+      "term": 2,
+      "name": "ENGL 210F",
+      "description": "Cenres of Business Communication",
+      "grade": "75",
+      "status": 0,
+      "isMajor": 1
+    },
+    {
+      "id": 14,
+      "term": 2,
+      "name": "MATH 239",
+      "description": "Introduction to Combinatorics",
+      "grade": "87",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 15,
+      "term": 2,
+      "name": "STAT 230",
+      "description": "Probability",
+      "grade": "100",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 16,
+      "term": 3,
+      "name": "CS 240",
+      "description": "Data Structures and Data Management",
+      "grade": "82",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 17,
+      "term": 3,
+      "name": "CS 241",
+      "description": "Foundations of Sequential Programs",
+      "grade": "89",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 18,
+      "term": 3,
+      "name": "CS 251",
+      "description": "Computer Organization and Design",
+      "grade": "95",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 19,
+      "term": 3,
+      "name": "CS 348",
+      "description": "Introduction to Database Management",
+      "grade": "86",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 20,
+      "term": 3,
+      "name": "STAT 231",
+      "description": "Statistics",
+      "grade": "95",
+      "status": 0,
+      "isMajor": 0
+    },
+    {
+      "id": 21,
+      "term": 4,
+      "name": "ECON 323",
+      "description": "Econometric Analysis 2",
+      "grade": "",
+      "status": 1,
+      "isMajor": 1
+    },
+    {
+      "id": 22,
+      "term": 4,
+      "name": "DAC 204",
+      "description": "Introduction to Game Design",
+      "grade": "",
+      "status": 1,
+      "isMajor": 1
+    },
+    {
+      "id": 23,
+      "term": 4,
+      "name": "CS 341",
+      "description": "Algorithms",
+      "grade": "",
+      "status": 1,
+      "isMajor": 0
+    },
+    {
+      "id": 24,
+      "term": 4,
+      "name": "CS 370",
+      "description": "Numerical Computation",
+      "grade": "",
+      "status": 1,
+      "isMajor": 0
+    },
+    {
+      "id": 25,
+      "term": 4,
+      "name": "CS 350",
+      "description": "Operating Systems",
+      "grade": "",
+      "status": 1,
+      "isMajor": 0
+    }
+  ],
+  "honour": [
+    {
+      "id": 0,
+      "term": 0,
+      "honour": "University of Waterloo President's Scholarship of Distinction",
+      "description": ""
+    },
+    {
+      "id": 1,
+      "term": 0,
+      "honour": "Term Distinction",
+      "description": "Excellent Standing Effective"
+    },
+    {
+      "id": 2,
+      "term": 1,
+      "honour": "Term Distinction",
+      "description": "Excellent Standing Effective"
+    },
+    {
+      "id": 3,
+      "term": 2,
+      "honour": "Term Distinction",
+      "description": "Excellent Standing Effective"
+    },
+    {
+      "id": 4,
+      "term": 3,
+      "honour": "Term Distinction",
+      "description": "Excellent Standing Effective"
+    }
+  ],
+  "work": [
+    {
+      "id": 0,
+      "png":"./png/fileex.jpg",
+      "demo":"https://github.com/Utsohu/FileExplorer-Beta",
+      "src":"https://github.com/Utsohu/FileExplorer-Beta",
+      "tech":"(Qt 5.12.4, Qt-Creator, Visual Studio 2017)",
+      "title": "FileEx",
+      "description": [
+        "• A file browser can deeply browse and search for files in all subdirectories.",
+        "• Developed using Qt and Visual Studio 2017."
+      ]
+    },
+    {
+      "id": 1,
+      "png":"./png/constructor.jpg",
+      "demo":"https://github.com/Utsohu/constructor",
+      "src":"https://github.com/Utsohu/constructor",
+      "tech":"(c++, gcc, vim, gdb)",
+      "title": "Constructor",
+      "description": [
+        "• Use C++ features to code a linux game, from designing UML logics to adding features and C++ design patterns to present the final game."
+      ]
+    },
+    {
+      "id": 2,
+      "png":"./png/starblaze.jpg",
+      "demo":"http://www.easyrentby.com:8080",
+      "src":"https://github.com/Utsohu/starblaze",
+      "tech":"(Unity 3D, C#, Visual Studio 2022, Nginx)",
+      "title": "Starblaze",
+      "description": [
+        "• An aircraft shooting game using Unity 3D and C#. ",
+        "• Described the storyline by using JSON file, can modify game content without modifying the program."
+      ]
+    },
+    {
+      "id": 3,
+      "png":"./png/easyrent.jpg",
+      "demo":"http://www.easyrentby.com",
+      "src":"https://github.com/Utsohu/easyRent",
+      "tech":"(React, Bootstrap, jQuery, Django, MySql, Docker, Webpack)",
+      "title": "Esyrent",
+      "description": [
+        "• A website for users to publish and search rental information, which includes three types of information: seeking rent, subletting, and renting.",
+        "• Applied React to build complex interactive components to achieve dynamic parts of web pages.",
+        "• Implemented Django framework in the back-end, MySql to store data, and Docker to deploy the system."
+      ]
+    },
+    {
+      "id": 4,
+      "png":"./png/compiler.jpg",
+      "demo":"https://github.com/Utsohu/compiler",
+      "src":"https://github.com/Utsohu/compiler",
+      "tech":"(React, Bootstrap, jQuery, Django, MySql, Docker, Webpack)",
+      "title": "Compiler",
+      "description": [
+        "• Make use of Mips to code a compiler that transform WLP4 (a very simple language similar to C++) into machine code language.",
+        "• Include scanning semantics, syntax checks, type checking, transforming to mips, and finally into machine code languages."
+      ]
+    },
+    {
+      "id": 5,
+      "png":"/png/studies.jpg",
+      "demo":"http://www.easyrentby.com:8000",
+      "src":"https://github.com/Utsohu/footprint",
+      "tech":"(React, React-Admin, Node.js, MUI, Vite, Nginx)",
+      "title": "Footprint",
+      "description": [
+        "• A simple management system to display my personal curriculum vitae.",
+        "• Developed based on React-Admin, and using MUI components for UI."
+      ]
+    }
+  ],
+  "course": [
+    {
+      "id": 0,
+      "name":"Monday",
+      "courses":[
+        {
+          "time":"10:00-11:20 am",
+          "course":"CS 370 Lecture",
+          "room": "MC - Mathematics & Computer 1056",
+          "description": "Numerical Computation",
+          "teacher": "Toshiya Hachisuka"
+        },
+        {
+          "time":"01:00-02:20 pm",
+          "course":"ECON 323 Lecture",
+          "room": "RCH - Rod Coutts Hall 207",
+          "description": "Econometric Analysis 2",
+          "teacher": "Emma Pierard"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name":"Tuesday", 
+      "courses":[
+        {
+          "time":"10:00-11:20 am",
+          "course":"CS 341 Lecture",
+          "room": "MC - Mathematics & Computer 1056",
+          "description": "Algorithms",
+          "teacher": "Eric Schost"
+        },
+        {
+          "time":"02:30-03:50 pm",
+          "course":"CS 350 Lecture",
+          "room": "STC - Science Teaching Complex 0020",
+          "description": "Operating Systems",
+          "teacher": "Ali Mashtizadeh"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name":"Wednesday",      
+      "courses":[
+        {
+          "time":"10:00-11:20 am",
+          "course":"CS 370 Lecture",
+          "room": "MC - Mathematics & Computer 1056",
+          "description": "Numerical Computation",
+          "teacher": "Toshiya Hachisuka"
+        },
+        {
+          "time":"01:00-02:20 pm",
+          "course":"ECON 323 Lecture",
+          "room": "RCH - Rod Coutts Hall 207",
+          "description": "Econometric Analysis 2",
+          "teacher": "Emma Pierard"
+        },
+        {
+          "time":"02:30-03:50 pm",
+          "course":"DAC 204 Lecture",
+          "room": "ECH - East Campus Hall 2113",
+          "description": "Introduction to Game Design",
+          "teacher": "Geneva Smith"
+        },
+        {
+          "time":"04:30-05:20 pm",
+          "course":"ECON 323 Tutorial",
+          "room": "PAS - Psychology, Anth & Soc 1237",
+          "description": "Introduction to Game Design",
+          "teacher": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name":"Thursday",
+      "courses":[
+        {
+          "time":"10:00-11:20 am",
+          "course":"CS 341 Lecture",
+          "room": "MC - Mathematics & Computer 1056",
+          "description": "Algorithms",
+          "teacher": ""
+        },
+        {
+          "time":"02:30-03:50 pm",
+          "course":"CS 350 Lecture",
+          "room": "STC - Science Teaching Complex 0020",
+          "description": "Operating Systems",
+          "teacher": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name":"Friday",
+      "courses":[
+        {
+          "time":"01:30-02:20 pm",
+          "course":"CS 341 Laboratory",
+          "room": "MC - Mathematics & Computer 2054",
+          "description": "Algorithms",
+          "teacher": "Eric Schost"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": 0,
+      "title": "Software Developer",
+      "company": "Wiscom System Co., Ltd",
+      "date": "May –- August 2022",
+      "addr": "No. 100 JiangJun Avenue, Nanjing, China",
+      "content": [
+        "• Designed and developed the permission configuration module in the iPACS 5000 Supervisory Control System.",
+        "• Obtained skills in designing user interfaces and software development by using C++ on QT Creator.",
+        "• Learned programming and debugging in a cross-platform environment (Linux and Win 10).",
+        "• Understood the Software Development Life-cycle, and learned version management using SVN."
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Applied Computing Tutor",
+      "company": "Sheridan College",
+      "date": "August –- December 2023",
+      "addr": "1430 Trafalgar Road, Oakville, Ontario, Canada",
+      "content": [
+        "• Be responsible for assisting and collaborating with students and faculty in their shared journey of learning and tutoring Object-Oriented Programming, Web Programming, Database Management, and Mathematics.",
+        "• Provided students with a daily TA course on Python and Math.",
+        "• Answered programming questions related to Python, C++, JAVA, etc. in Library and Learning Services Tutoring Centre for appointment and drop-in sessions with students of all levels.",
+        "• Developed various instruction examples regarding OOP Programming and stored in Sheridan’s education database.",
+        "• Enhanced self-skills in determining programming logic and designing class structures for OOP languages."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Compiler Engineer",
+      "company": "Huawei Technologies Canada Co., Ltd",
+      "date": "May -- August 2024",
+      "addr": "19 Allstate Parkway, Markham, Ontario, Canada",
+      "content": [
+        "• Develop, edit, and test features within LLVM, including self-made intrinsics, replacing combiner functionalities, and tracking target lowering strategies, while at the same time using hvsc and voyasc to compare and track the logs of test cases.",
+        "• Work in the GPU team to test and present high-quality graphics on the mobile phone.",
+        "• Making research on picture corruptions and comparison algorithms, including the latest NVIDIA FLIP tools.",
+        "• Use GIT to upload, merge, and develop the latest patches over the whole compiler system.",
+        "• Following the team’s instructions to fix compiler errors and warnings."
+      ]
+    }
+  ],
+  "main": [{
+      "name": "Boyue Yang",
+      "title": "Welcome to Boyue Yang's Studies Space",
+      "subtitle":"3A Computer Science, Honours, Co-operative Program",
+      "contact":"Phone: (226) 789-3866, Email: b2yang@uwaterloo.ca",
+      "gpa":  91.35,
+      "work_num": 6,
+      "experience_num":3,
+      "honour_num":5
+  }],
+  "thing":[
+    {
+      "id": 0,
+      "time": "2024/9/1 09:30:00",
+      "title":"Bookstore",
+      "content": "Buying Textbooks for CS 341"
+    },
+    {
+      "id": 1,
+      "time": "2024/9/5 10:30:00",
+      "title":"Meeting",
+      "content": "Meeting With ****"
+    },
+    {
+      "id": 2,
+      "time": "2024/9/15 11:30:00",
+      "title":"Interview",
+      "content": "Interview With ****"
+    }
+  ]
+}
